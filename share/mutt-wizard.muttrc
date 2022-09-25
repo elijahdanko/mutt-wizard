@@ -139,7 +139,7 @@ mono error bold
 color normal default default
 color indicator default color8
 color sidebar_highlight red color8
-color sidebar_divider color8 color8
+color sidebar_divider white color8
 color sidebar_flagged red color8
 color sidebar_new green black
 color normal brightyellow default
